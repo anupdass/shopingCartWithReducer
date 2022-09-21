@@ -1,0 +1,18 @@
+.home {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.cart {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    position: sticky;
+    top: 0px;
+    background-color: white;
+    line-height: 0px;
+    padding: 10px 0;
+    z-index: 1;
+}
