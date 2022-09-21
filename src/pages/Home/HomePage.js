@@ -2,7 +2,7 @@ import React from 'react'
 import ProductItem from '../../components/productItem/ProductItem'
 import { products } from '../../data/data'
 import { useCartContext } from '../../context/CartContext'
-import MessengerCustomerChat from 'react-messenger-customer-chat';
+import MessengerCustomerChat from 'react-messenger-customer-chat/lib/MessengerCustomerChat'
 
 import './Home.css'
 
