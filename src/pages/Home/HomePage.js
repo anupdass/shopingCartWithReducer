@@ -28,8 +28,8 @@ const HomePage = () => {
             </div>
             <MessengerCustomerChat
                 pageId="908812325903071"
-                appId="174345558218432"
-            />,
+                appId="5466522516802685"
+            />
         </div>
     )
 }
